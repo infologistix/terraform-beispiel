@@ -1,1 +1,3 @@
-# terraform-beispiel
+# Terraform-beispiel
+
+Ein kleines Terraform Beispiel.
